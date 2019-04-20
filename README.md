@@ -6,6 +6,28 @@
 
 [![video](https://i.vimeocdn.com/video/776961119_640x360.jpg)](https://vimeo.com/331539305)
 
+# 설명
+
+좌측) 로그인 화면  우측) 회원가입 화면
+
+![Implementation_images](readme_image/Implementation_image/imp_01.jpg)
+
+메인화면
+
+![Implementation_images](readme_image/Implementation_image/imp_02.jpg)
+
+좌측) 채팅방 설정  우측) 채팅방 리스트 
+
+![Implementation_images](readme_image/Implementation_image/imp_03.jpg)
+
+친구 추가 좌측) admin1 계정 우측) admin 계정
+
+![Implementation_images](readme_image/Implementation_image/imp_04.jpg)
+
+좌측) 본인 계정 프로필 화면 우측) 친구 계정 프로필 화면
+
+![Implementation_images](readme_image/Implementation_image/imp_05.jpg)
+
 # DataBase
 
 ## MyKaKao DB Table
