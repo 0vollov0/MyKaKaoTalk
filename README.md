@@ -20,29 +20,29 @@ Java Swing과 MultiThread Socket, JDBC(MySQL) 을 이용하여 카카오톡(구�
 
 좌측) 로그인 화면  우측) 회원가입 화면
 
-![Implementation_images](readme_image/Implementation_image/imp_01.jpg)
+![ImplementationImage](ReadmeImage/ImplementationImage/imp_01.jpg)
 
 메인화면
 
-![Implementation_images](readme_image/Implementation_image/imp_02.jpg)
+![ImplementationImage](ReadmeImage/ImplementationImage/imp_02.jpg)
 
 좌측) 채팅방 설정  우측) 채팅방 리스트 
 
-![Implementation_images](readme_image/Implementation_image/imp_03.jpg)
+![ImplementationImage](ReadmeImage/ImplementationImage/imp_03.jpg)
 
 친구 추가 좌측) admin1 계정 우측) admin 계정
 
-![Implementation_images](readme_image/Implementation_image/imp_04.jpg)
+![ImplementationImage](ReadmeImage/ImplementationImage/imp_04.jpg)
 
 좌측) 본인 계정 프로필 화면 우측) 친구 계정 프로필 화면
 
-![Implementation_images](readme_image/Implementation_image/imp_05.jpg)
+![ImplementationImage](ReadmeImage/ImplementationImage/imp_05.jpg)
 
 # DataBase
 
 ## MyKaKao DB Table
 
-![DataBase](readme_image/Implementation_image/imp_06.jpg)
+![DataBase](ReadmeImage/ImplementationImage/imp_06.jpg)
 
 * addfriendlist
 
@@ -101,38 +101,38 @@ Java Swing과 MultiThread Socket, JDBC(MySQL) 을 이용하여 카카오톡(구�
 
 * client
 
-![client_Diagram](readme_image/diagram/Client/client.png)
+![client_Diagram](ReadmeImage/ClassDiagram/Client/client.png)
 
 * user
 
-![user_Diagram](readme_image/diagram/Client/user.png)
+![user_Diagram](ReadmeImage/ClassDiagram/Client/user.png)
 
 ## Server
 
 * server
 
-![server Diagram](readme_image/diagram/Server/server.png)
+![server Diagram](ReadmeImage/ClassDiagram/Server/server.png)
 
 * addfriendlist
 
-![addfriendlist_Diagram](readme_image/diagram/Server/addfriendlist.png)
+![addfriendlist_Diagram](ReadmeImage/ClassDiagram/Server/addfriendlist.png)
 
 * chatlog
 
-![chatlog_Diagram](readme_image/diagram/Server/chatlog.png)
+![chatlog_Diagram](ReadmeImage/ClassDiagram/Server/chatlog.png)
 
 * chattingroom
 
-![chattingroom_Diagram](readme_image/diagram/Server/chattingroom.png)
+![chattingroom_Diagram](ReadmeImage/ClassDiagram/Server/chattingroom.png)
 
 * friend
 
-![friend_Diagram](readme_image/diagram/Server/friend.png)
+![friend_Diagram](ReadmeImage/ClassDiagram/Server/friend.png)
 
 * singlechat
 
-![singlechat Diagram](readme_image/diagram/Server/singlechat.png)
+![singlechat Diagram](ReadmeImage/ClassDiagram/Server/singlechat.png)
 
 * user
 
-![user_Diagram](readme_image/diagram/Server/user.png)
+![user_Diagram](ReadmeImage/ClassDiagram/Server/user.png)
