@@ -12,10 +12,6 @@ Java Swing과 MultiThread Socket, JDBC(MySQL) 을 이용하여 카카오톡(구�
 * 채팅방 참가/나가기
 * 채팅방 대화 친구 추가
 
-## 영상
-
-[![video](https://i.vimeocdn.com/video/776961119_640x360.jpg)](https://vimeo.com/331539305)
-
 # 설명
 
 좌측) 로그인 화면  우측) 회원가입 화면
